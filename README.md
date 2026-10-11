@@ -33,6 +33,9 @@ I enjoy building complete software systems—from networking and operating syste
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" height="18" valign="middle" /> WhatsApp: <a href="https://wa.me/+923412772594" target="_blank">Chat on WhatsApp</a>
 <!-- SOCIAL / PROFILE BADGES -->
 <p align="center">
+<a href="https://wa.me/+923412772594" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-CONTACT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
   <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 <a href="https://www.linkedin.com/company/employment-processing-resource-epr/?viewAsMember=true" target="_blank">
