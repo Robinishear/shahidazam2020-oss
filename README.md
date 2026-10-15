@@ -44,6 +44,9 @@ I enjoy building complete software systems—from networking and operating syste
    <a href="https://shahidazam2020.wixsite.com/mysite-1" target="_blank"> 
      <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
    </a>
+    <a href="https://shahidazam2027.netlify.app/" target="_blank"> 
+     <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+   </a>
     <a href="https://www.researchgate.net/profile/Shahid-Azam-5?ev=hdr_xprf" target="_blank">
   <img src="https://img.shields.io/badge/RESEARCHGATE-CONNECT-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
 </a>
