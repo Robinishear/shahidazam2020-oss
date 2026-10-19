@@ -6,6 +6,8 @@
   <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/ai-specialization.svg"/>
 </div>
 
+---
+
 <div align="center">
   <a href="https://github.com/shahidazam2020-oss">
     <img src="https://komarev.com/ghpvc/?username=shahidazam2020-oss&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
